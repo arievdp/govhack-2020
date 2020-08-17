@@ -1,8 +1,8 @@
 # MyMSDChat - GovHack 2020 Auckland
 
-Winner of the Auckland GovHack regional competition
-
 Created in 48 hours as part of the GovHack Hackathon
+
+Winner of the GovHack Social Impact award
 
 url: http://govhack-auckland-2020.herokuapp.com/
 
